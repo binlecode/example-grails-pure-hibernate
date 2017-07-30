@@ -1,0 +1,1 @@
+# test-grails-pure-hibernate
